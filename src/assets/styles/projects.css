@@ -1,0 +1,37 @@
+/* Project */
+
+.project-header{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 400;
+    color: #eeeeee;
+}
+
+.separator{
+    width: 70px;
+	height: 4px;
+    margin: 1.5% auto 3% auto;
+	background-color: #dd743c;
+}
+
+.project-item {
+    padding: 20px;
+    margin-bottom: 20px;
+    max-width: 250px;
+    background-color: #a1a1a118;
+}
+
+.project-item img{
+    width: 100% ;
+    border-radius: 5px;
+}
+
+.project-item h4{
+    color: #f9f9f9;
+    margin-bottom: 10px;
+}
+
+.project-item p{
+    color: #eeeeee;
+    margin-bottom: 10px;
+}

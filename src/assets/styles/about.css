@@ -1,0 +1,53 @@
+/* About */
+.about-header{
+    text-align: center;
+    font-size: 3.5rem;
+    font-weight: 300;
+    color: #eeeeee;
+}
+    
+.about-separator{
+    width: 70px;
+    height: 4px;
+    margin: 1.5% auto 3% auto;
+    background-color: #e65d14;
+}
+
+
+.about-item{
+    color: #eeeeee;
+    /* padding: 20px; */
+}
+
+.about-item h3{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.about-item p {
+    font-size: 16px;
+    word-spacing: 3px;
+}
+
+.about-item ul{
+    /* list-style-image: url("../images/graduation-hat.png"); */
+    margin: 0;
+}
+
+.about-item li{
+    font-size: 1.2rem;
+    margin-top: 15px;
+    color: #ffffff;
+
+}
+.about-item span{
+ font-size: .9rem;
+ color: #dddddd;
+}
+
+
+@media screen and (max-width: 900px) {
+    .col-50{
+        width: calc(100% - 10px);
+    } 
+}

@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "title": "DATA ANALYST",
+        "company": "BMO Harris Bank",
+        "city": "Brookfield",
+        "State": "WI",
+        "country": "USA",
+        "startDate": "June, 2022",
+        "endDate": "up to date",
+        "current": true,
+        "description": ["Work closely with project managers to understand and maintain focus on their analytical needs, including identifying critical metrics and KPIs, and delivering actionable insights to relevant decision-makers.", 
+        "Build reports and visualizations to effectively communicate data-driven insights to users for a variety of audiences.", 
+        "Retrieve data from multiple database platforms using complex SQL queries."]
+    },
+    {
+        "id": 2,
+        "title": "RETAIL RELATIONSHIP BANKER",
+        "company": "BMO Harris Bank",
+        "city": "Wauwatosa",
+        "State": "WI",
+        "country": "USA",
+        "startDate": "May, 2019",
+        "endDate": "May, 2022",
+        "current": false,
+        "description": ["Identify customer needs and provide advice and guidance regarding financial solutions that are in the best interests of customers.", 
+        "Take a lead in proactively engaging with existing customers and prospects by providing needs-based assessments to grow loyalty and identify immediate/future opportunities.", 
+        "Engage customers to grow BMO’s business by generating appointments and building new relationships within the community."]
+    },
+    {
+        "id": 3,
+        "title": "BUSINESS INTELLIGENCE ANALYST ",
+        "company": "White Shark Media",
+        "city": "Managua",
+        "State": "Managua",
+        "country": "Nicaragua",
+        "startDate": "June, 2016",
+        "endDate": "June, 2018",
+        "current": false,
+        "description": ["Provided reports through PowerBI and was the storyteller of the data.", 
+        "Maintain and create new Salesforce dashboard and reports.", 
+        "Created and maintained documentation that includes the design, requirements, and user manuals for the organization using LucidChart.",
+        "Identified the development needs for the purpose of streamlining and improving the operations of the organization for efficiency and profitability."]
+    },
+    {
+        "id": 4,
+        "title": "WORKFORCE MANAGEMENT LEAD (WFML)",
+        "company": "Accedo Technologies",
+        "city": "Pereira",
+        "State": "Risaralda",
+        "country": "Colombia",
+        "startDate": "November, 2011",
+        "endDate": "May, 2016",
+        "current": false,
+        "description": ["Elaborated short-term and long-term sales forecasts and max capacity plans for inbound calls and chats using AVAYA CMS.", 
+        "Forecast staffing needs, taking into account contact volume and headcount requirements.", 
+        "Develop scheduling and assist with process time-off requests with NICE IEX.",
+        "Generate reports from databases using SQL queries to show changes to productivity or performance."]
+    }
+]
